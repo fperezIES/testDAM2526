@@ -1,3 +1,5 @@
 Nuevo archivo creado en Windows
 
 Añado otra línea.
+
+Modifico fichero en VSC.
